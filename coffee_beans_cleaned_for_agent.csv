@@ -1,0 +1,104 @@
+Bean/blend name,bean_name_norm,Origin,origin_norm,Roast level,roast_group,Cost per 100 g,price_level,Rating,Tasting notes,tasting_notes_clean,tasting_keywords,Currency,Roaster's country
+Bank Robber,bank robber,Blend,blend,4.0,medium,6.01,medium,8.0,unknown,unknown,['unknown'],USD ($),United States
+Eclipse,eclipse,Blend,blend,5.0,medium,unknown,unknown,7.0,"Chocolate, nuts, low acidity","acidity, chocolate, low acidity","['acidity', 'chocolate', 'low acidity']",$,United States
+Christmas in July,christmas in july,Blend,blend,4.0,medium,unknown,unknown,3.0,unknown,unknown,['unknown'],$,United States
+The Classic,the classic,Blend,blend,5.0,medium,6.18,medium,5.0,"Dark cherry, chocolate finish","cherry, chocolate, dark cherry","['cherry', 'chocolate', 'dark cherry']",USD ($),United States
+Honduras Comsa,honduras comsa,Honduras,honduras,4.0,medium,5.0,medium,10.0,"Strong, creamy hazelnut flavor, floral finish",hazelnut,['hazelnut'],USD ($),United States
+Worka Sakaro,worka sakaro,Ethiopia,ethiopia,3.0,light,7.06,medium,6.0,"Strong berry flavor, pleasant acidity, lingering chocolate finish","acidity, berry, chocolate","['acidity', 'berry', 'chocolate']",USD ($),United States
+La Candelilla,la candelilla,Costa Rica,costa rica,3.0,light,unknown,unknown,4.0,unknown,unknown,['unknown'],USD ($),United States
+Diego Bermudez Y07,diego bermudez y07,Colombia,colombia,3.0,light,unknown,unknown,5.0,Mixed fruit with mild florality,fruit,['fruit'],$,United States
+Death By Sidra,death by sidra,Colombia,colombia,3.0,light,5.88,medium,6.0,unknown,unknown,['unknown'],USD ($),United States
+The House That Gesha Built,the house that gesha built,Blend,blend,2.0,light,unknown,unknown,6.0,unknown,unknown,['unknown'],$,United States
+Ratnagiri Estate White Flowers,ratnagiri estate white flowers,India,india,2.0,light,unknown,unknown,10.0,"Light white florals, almost sugary sweetness",sweet,['sweet'],$,United States
+Esteban Zamora Cinammon Anaerobic,esteban zamora cinammon anaerobic,Costa Rica,costa rica,4.0,medium,unknown,unknown,9.0,unknown,unknown,['unknown'],$,United States
+San Diego,san diego,Costa Rica,costa rica,4.0,medium,5.88,medium,9.0,"cinnamon (like a ton of cinnamon), chocolate",chocolate,['chocolate'],USD ($),United States
+Peaberry,peaberry,Brazil,brazil,3.0,light,3.3,cheap,8.0,Chocolate and caramel with nutty and fruity undertones,"caramel, chocolate, fruit, fruity, nutty","['caramel', 'chocolate', 'fruit', 'fruity', 'nutty']",USD ($),United States
+NESRU ABA NURA,nesru aba nura,Ethiopia,ethiopia,3.0,light,unknown,unknown,7.0,unknown,unknown,['unknown'],$,United States
+Indian Malabar AA,indian malabar aa,India,india,4.0,medium,3.53,cheap,8.0,"Cardamom, Graham, Bakers Spice, Rich and soothing finish",rich,['rich'],USD ($),United States
+Morning Sun,morning sun,Blend,blend,3.0,light,5.0,medium,7.0,"Rich, full bodied",rich,['rich'],USD ($),United States
+Fast Forward,fast forward,Blend,blend,3.0,light,3.73,cheap,8.0,"Nutty, creamy texture, chocolatey","chocolate, chocolatey, nutty","['chocolate', 'chocolatey', 'nutty']",USD ($),United States
+Brazil Daterra Reserve,brazil daterra reserve,Brazil,brazil,3.0,light,4.78,medium,8.0,unknown,unknown,['unknown'],USD ($),Israel
+Field Trip,field trip,Blend,blend,2.0,light,4.71,medium,7.0,unknown,unknown,['unknown'],USD ($),United States
+Mystic Monk Espresso Classico,mystic monk espresso classico,Blend,blend,3.0,light,3.0,cheap,10.0,"Rich, Earthy, Chocolate with a hint of Caramel, slight fruit note","caramel, chocolate, fruit, rich","['caramel', 'chocolate', 'fruit', 'rich']",USD ($),United States
+Holler Mtn.,holler mtn.,Blend,blend,4.0,medium,2.35,cheap,2.0,"Very rich, incredibly acidic",rich,['rich'],USD ($),United States
+Apollo,apollo,Ethiopia,ethiopia,3.0,light,4.71,medium,8.0,unknown,unknown,['unknown'],USD ($),United States
+Guatemala La Soledad H1,guatemala la soledad h1,Guatemala,guatemala,2.0,light,7.94,medium,7.0,"Lime, dried cherry, cola",cherry,['cherry'],USD ($),United States
+Black and White The Traditional,black and white the traditional,Blend,blend,6.0,dark,unknown,unknown,9.0,"Dark chocolate, cherry","cherry, chocolate, dark chocolate","['cherry', 'chocolate', 'dark chocolate']",$,United States
+Tulip Festival blend,tulip festival blend,Blend,blend,6.0,dark,3.53,cheap,10.0,"Caramel, full body, low acidity, aromatic, welcome bitterness","acidity, body, caramel, full body, low acidity","['acidity', 'body', 'caramel', 'full body', 'low acidity']",USD ($),United States
+Whole Foods Market Espresso Bel Canto,whole foods market espresso bel canto,Blend,blend,2.0,light,3.67,cheap,8.0,unknown,unknown,['unknown'],USD ($),United States
+Ixlama,ixlama,Colombia,colombia,3.0,light,5.88,medium,8.0,"Cocoa, heavy cherry, vanilla, smoke",cherry,['cherry'],USD ($),United States
+Espresso Bella Crema,espresso bella crema,Blend,blend,4.0,medium,4.3,cheap,9.0,"Rich, syrupy, chocolate and caramel","caramel, chocolate, rich, syrupy","['caramel', 'chocolate', 'rich', 'syrupy']",USD ($),United States
+Virunga Espresso,virunga espresso,Rwanda,rwanda,4.0,medium,4.71,medium,8.0,"chocolate, citrus, caramel, mineral (?)","caramel, chocolate","['caramel', 'chocolate']",USD ($),United States
+Kuma Bear Claus,kuma bear claus,Blend,blend,3.0,light,5.29,medium,7.0,"Very fragrant, fruit and nuts",fruit,['fruit'],USD ($),United States
+Apollo,apollo,Ethiopia,ethiopia,3.0,light,4.71,medium,8.0,unknown,unknown,['unknown'],USD ($),United States
+Arrival,arrival,Blend,blend,5.0,medium,5.29,medium,9.0,"Dark chocolate covered cherries, almond butter, sweet, thick, silky","chocolate, dark chocolate, sweet","['chocolate', 'dark chocolate', 'sweet']",USD ($),United States
+Big Riff,big riff,Blend,blend,3.0,light,6.52,medium,9.0,"Chocolate notes, small citrus notes.",chocolate,['chocolate'],USD ($),United States
+Viola Espresso,viola espresso,Blend,blend,5.0,medium,4.63,cheap,8.0,Chocolate caramel rich,"caramel, chocolate, rich","['caramel', 'chocolate', 'rich']",USD ($),United States
+Wood Fire Roasted Coffee Company - Cowboy Roast,wood fire roasted coffee company - cowboy roast,Blend,blend,4.0,medium,93.75,expensive,8.0,unknown,unknown,['unknown'],USD ($),United States
+Supernova,supernova,Blend,blend,4.0,medium,5.51,medium,7.0,"Medium body, fruity, citrus","body, fruit, fruity, medium body","['body', 'fruit', 'fruity', 'medium body']",USD ($),United States
+Bensi Nenka,bensi nenka,Ethiopia,ethiopia,3.0,light,12.0,medium,9.0,"Boysenberry, white honey, winey",berry,['berry'],USD ($),United States
+Zanzibar House Blend,zanzibar house blend,Blend,blend,5.0,medium,4.04,cheap,10.0,"chocolate, caramel, dark","caramel, chocolate","['caramel', 'chocolate']",USD ($),United States
+Espresso Blend,espresso blend,Blend,blend,4.0,medium,4.12,cheap,7.0,"Chocolate, Bright acidity","acidity, chocolate","['acidity', 'chocolate']",USD ($),United States
+Courderoy,courderoy,Blend,blend,3.0,light,5.29,medium,10.0,unknown,unknown,['unknown'],USD ($),United States
+Midway,midway,Blend,blend,5.0,medium,58.33,expensive,7.0,"Syrupy, Malt, walnut",syrupy,['syrupy'],USD ($),United States
+Spirit of Brazil,spirit of brazil,Brazil,brazil,5.0,medium,4.63,cheap,8.0,chocolate,chocolate,['chocolate'],USD ($),United States
+Newport,newport,Blend,blend,4.0,medium,5.29,medium,9.0,"Rich, medium body, caramel head with nutty chocolate body. Very smooth and balanced.","body, caramel, chocolate, medium body, nutty, rich","['body', 'caramel', 'chocolate', 'medium body', 'nutty', 'rich']",USD ($),United States
+Newport Fruit Loops,newport fruit loops,Colombia,colombia,2.0,light,7.35,medium,10.0,"Insanely fruity, nose of a bowl of Froot Loops, body is acidic, bright, tropical fruit on tongue followed by lavender tea. Unreal.","body, fruit, fruity","['body', 'fruit', 'fruity']",USD ($),United States
+El Mirador Junguilla Gesha ESPRESSO,el mirador junguilla gesha espresso,Colombia,colombia,2.0,light,16.8,expensive,9.0,"Apricot, Peach jam, sweet caramel","caramel, sweet","['caramel', 'sweet']",USD ($),United States
+Rubí Chiroso IV,rubí chiroso iv,Colombia,colombia,2.0,light,11.6,medium,8.0,unknown,unknown,['unknown'],USD ($),United States
+China Lao Xu Zhai Village,china lao xu zhai village,China,china,4.0,medium,7.06,medium,8.0,"Sweet, baked goods",sweet,['sweet'],USD ($),United States
+Nestor Lasso - Thermal Shock Decaf,nestor lasso - thermal shock decaf,Colombia,colombia,3.0,light,7.65,medium,8.0,"Luxardo cherry, milk chocolate","cherry, chocolate, milk chocolate","['cherry', 'chocolate', 'milk chocolate']",USD ($),United States
+Espresso Delicato,espresso delicato,Blend,blend,3.0,light,4.19,cheap,8.0,"Craft chocolate, clean acidity","acidity, chocolate","['acidity', 'chocolate']",USD ($),United States
+Espresso Luminoso,espresso luminoso,Blend,blend,2.0,light,4.19,cheap,6.0,"Fruity and bright, chocolatey, nutty. Tea-like.","chocolate, chocolatey, fruit, fruity, nutty","['chocolate', 'chocolatey', 'fruit', 'fruity', 'nutty']",USD ($),United States
+Benti Nenka,benti nenka,Ethiopia,ethiopia,3.0,light,4.86,medium,8.0,unknown,unknown,['unknown'],USD ($),United States
+Amsterdam Blend,amsterdam blend,Brazil,brazil,unknown,unknown,5.65,medium,8.0,"Smooth, caramel, chocolate, blends well with oatmilk and a little sugar, low acidity","acidity, caramel, chocolate, low acidity","['acidity', 'caramel', 'chocolate', 'low acidity']",USD ($),United States
+Espress-so Sweet,espress-so sweet,Blend,blend,5.0,medium,3.96,cheap,9.0,"Rich, cocoa nibs, toffee, hazelnut, roasted pecans","hazelnut, rich","['hazelnut', 'rich']",USD ($),United States
+Arabica,arabica,Blend,blend,4.0,medium,4.41,cheap,8.0,"chocolate, caramel, sea salt","caramel, chocolate","['caramel', 'chocolate']",USD ($),United States
+Dragonfruit Spritz,dragonfruit spritz,Colombia,colombia,2.0,light,6.99,medium,9.0,"Rhaspberry, Cherry, Rose Candy, Creamy","berry, cherry","['berry', 'cherry']",USD ($),United States
+Eapresso blend,eapresso blend,Colombia,colombia,6.0,dark,5.95,medium,8.0,Rich chocolate,"chocolate, rich","['chocolate', 'rich']",USD ($),Bermuda (United Kingdom)
+Humbler,humbler,Blend,blend,4.0,medium,6.0,medium,9.0,"chocolate, molasses, low acidity","acidity, chocolate, low acidity","['acidity', 'chocolate', 'low acidity']",USD ($),United States
+"Costa Rica, Tarrazu, Cafe Vida","costa rica, tarrazu, cafe vida",Costa Rica,costa rica,5.0,medium,5.59,medium,9.0,"Syrupy body, nougat, cashew butter, German chocolate, vanilla","body, chocolate, syrupy","['body', 'chocolate', 'syrupy']",USD ($),American Samoa (United States)
+Selfsame Coffee Peru Kaphiy,selfsame coffee peru kaphiy,Peru,peru,4.0,medium,7.77,medium,9.0,"Round and smooth acidity, dark chocolate","acidity, chocolate, dark chocolate","['acidity', 'chocolate', 'dark chocolate']",USD ($),United States
+Ring kf Fire,ring kf fire,Blend,blend,7.0,dark,4.41,cheap,1.0,unknown,unknown,['unknown'],USD ($),United States
+Huila Monteblanco Tropical Washed,huila monteblanco tropical washed,Colombia,colombia,3.0,light,18.16,expensive,8.0,unknown,unknown,['unknown'],USD ($),Japan
+Up Top Blend,up top blend,Colombia,colombia,4.0,medium,4.12,cheap,7.0,"Chocolate, nutty","chocolate, nutty","['chocolate', 'nutty']",USD ($),United States
+1884,1884,Blend,blend,4.0,medium,5.29,medium,7.0,"Light body, earthy and nutty, tons of crema","body, light body, nutty","['body', 'light body', 'nutty']",USD ($),United States
+Dirty Bird,dirty bird,Colombia,colombia,6.0,dark,5.48,medium,10.0,"Dark Chocolate,  Currants, Syrup, Caramel","caramel, chocolate, dark chocolate","['caramel', 'chocolate', 'dark chocolate']",USD ($),United States
+Holler Mtn.,holler mtn.,Blend,blend,4.0,medium,4.12,cheap,10.0,"Dark Chocolate, Carmel","chocolate, dark chocolate","['chocolate', 'dark chocolate']",USD ($),United States
+Mexico Altura,mexico altura,Mexico,mexico,4.0,medium,3.74,cheap,9.0,"Brown Sugar, Cinnamon, Nutty",nutty,['nutty'],USD ($),United States
+Slow Motion,slow motion,Peru,peru,4.0,medium,5.59,medium,9.0,"Dark Chocolate, Molasses","chocolate, dark chocolate","['chocolate', 'dark chocolate']",USD ($),United States
+"Sumatra, Aceh Pantan Musara","sumatra, aceh pantan musara",Indonesia,indonesia,3.0,light,9.5,medium,8.0,unknown,unknown,['unknown'],USD ($),Denmark
+Kirkland Ethiopian Light Roast,kirkland ethiopian light roast,Ethiopia,ethiopia,3.0,light,2.22,cheap,6.0,unknown,unknown,['unknown'],USD ($),United States
+Ixlama,ixlama,Guatemala,guatemala,2.0,light,6.18,medium,7.0,"Chocolate, Caramel, Creamy","caramel, chocolate","['caramel', 'chocolate']",USD ($),United States
+No. 9,no. 9,Blend,blend,3.0,light,5.0,medium,9.0,"Dark chocolate, subtle cherry like","cherry, chocolate, dark chocolate","['cherry', 'chocolate', 'dark chocolate']",USD ($),United States
+Bicycle Coffee Espresso Blend,bicycle coffee espresso blend,Blend,blend,4.0,medium,3.0,cheap,10.0,Rich caramel and honey,"caramel, rich","['caramel', 'rich']",USD ($),United States
+Rwanda Gitesi,rwanda gitesi,Rwanda,rwanda,2.0,light,8.37,medium,9.0,"Low acidity, complex flavors","acidity, low acidity","['acidity', 'low acidity']",USD ($),United States
+Atlas Light,atlas light,Brazil,brazil,2.0,light,5.15,medium,9.0,"Milk Chocolate, Caramel, Almond","caramel, chocolate, milk chocolate","['caramel', 'chocolate', 'milk chocolate']",USD ($),United States
+Jose’s 100% Organic Mayan,jose’s 100% organic mayan,Blend,blend,6.0,dark,1.99,cheap,6.0,unknown,unknown,['unknown'],USD ($),United States
+Organic Ethiopian Sidamo,organic ethiopian sidamo,Ethiopia,ethiopia,2.0,light,unknown,unknown,8.0,unknown,unknown,['unknown'],USD ($),United States
+The Shaw,the shaw,Blend,blend,3.0,light,6.36,medium,10.0,"Milk Chocolate, Strawberry, Creamy, Modern","berry, chocolate, milk chocolate","['berry', 'chocolate', 'milk chocolate']",USD ($),United States
+Espresso Dolce,espresso dolce,Blend,blend,5.0,medium,3.3,cheap,8.0,"Rich, strong, syrupy body. Chocolatey","body, chocolate, chocolatey, rich, syrupy","['body', 'chocolate', 'chocolatey', 'rich', 'syrupy']",USD ($),United States
+French Roast Decaf,french roast decaf,Guatemala,guatemala,6.0,dark,4.67,medium,7.0,"Rich, chocolatey","chocolate, chocolatey, rich","['chocolate', 'chocolatey', 'rich']",USD ($),United States
+Neon Espresso,neon espresso,Blend,blend,3.0,light,5.29,medium,8.0,"Sweet, fruity, floral","fruit, fruity, sweet","['fruit', 'fruity', 'sweet']",USD ($),United States
+Ethiopia Decaf Royal Select Water Process Coffee,ethiopia decaf royal select water process coffee,Ethiopia,ethiopia,3.0,light,5.88,medium,7.0,"Rich, apricot notes, tart finish",rich,['rich'],USD ($),United States
+Bugisu,bugisu,Uganda,uganda,2.0,light,7.35,medium,7.0,"right notes of citrus, tangy-milky mouthfeel, and luscious bass notes of chocolate",chocolate,['chocolate'],USD ($),United States
+Arboretum,arboretum,Blend,blend,2.0,light,4.19,cheap,10.0,"Sweet, medium body, milk chocolate and nutty","body, chocolate, medium body, milk chocolate, nutty, sweet","['body', 'chocolate', 'medium body', 'milk chocolate', 'nutty', 'sweet']",USD ($),United States
+Inductus,inductus,Brazil,brazil,3.0,light,6.18,medium,9.0,"Pleasant peanut butter and chocolate notes. Smooth acidity, medium, syrupy body.","acidity, body, chocolate, syrupy","['acidity', 'body', 'chocolate', 'syrupy']",USD ($),United States
+Sumatra single origen organic,sumatra single origen organic,Indonesia,indonesia,4.0,medium,141.67,expensive,10.0,Rich,rich,['rich'],USD ($),United States
+House Blend,house blend,Blend,blend,2.0,light,5.0,medium,7.0,"Very fresh raspberry, orange peel, mild chocolate, medium body","berry, body, chocolate, medium body","['berry', 'body', 'chocolate', 'medium body']",USD ($),United States
+Alchemy,alchemy,Blend,blend,4.0,medium,4.41,cheap,9.0,"Toffee, chocolate and cherry. Rich sweetness, a touch of bright acidity, and a velvety body.","acidity, body, cherry, chocolate, rich, sweet","['acidity', 'body', 'cherry', 'chocolate', 'rich', 'sweet']",USD ($),United States
+Edwin Norena Cinnamon Co-Fermentation (Green Coffee),edwin norena cinnamon co-fermentation (green coffee),Colombia,colombia,4.0,medium,4.97,medium,9.0,"Cinnamon forward, not sweet not spicy, tastes like cinnamon smells, chocolatey and deep","chocolate, chocolatey, sweet","['chocolate', 'chocolatey', 'sweet']",USD ($),United States
+Lillehammer Blend,lillehammer blend,Blend,blend,6.0,dark,3.82,cheap,1.0,"burnt, burnt chocolate, bitter, very dark",chocolate,['chocolate'],USD ($),United States
+Hayes valley,hayes valley,Blend,blend,5.0,medium,4.41,cheap,9.0,unknown,unknown,['unknown'],USD ($),United States
+Elixir Beekeeper Espresso,elixir beekeeper espresso,Blend,blend,3.0,light,4.19,cheap,8.0,"Chocolate, syrupy","chocolate, syrupy","['chocolate', 'syrupy']",USD ($),United States
+Art of Yunnan,art of yunnan,China,china,3.0,light,6.76,medium,8.0,"thick syrupy dark cherry body, lighter grapefruit finish","body, cherry, dark cherry, fruit, syrupy","['body', 'cherry', 'dark cherry', 'fruit', 'syrupy']",USD ($),United States
+Classic Bar,classic bar,Blend,blend,6.0,dark,2.15,cheap,7.0,"Syrupy,. chocolate, almond","chocolate, syrupy","['chocolate', 'syrupy']",USD ($),Italy
+Mooneys midnight espresso,mooneys midnight espresso,Blend,blend,5.0,medium,3.74,cheap,10.0,Rich and syrupy body,"body, rich, syrupy","['body', 'rich', 'syrupy']",USD ($),American Samoa (United States)
+EXP009: Passionfruit,exp009: passionfruit,Colombia,colombia,2.0,light,14.3,medium,10.0,"passionfruit, apricot, peach tea",fruit,['fruit'],USD ($),United States
+Ethiopian Harrar,ethiopian harrar,Ethiopia,ethiopia,4.0,medium,4.41,cheap,9.0,"sweet, dark chocolate, low bitter and acid","chocolate, dark chocolate, sweet","['chocolate', 'dark chocolate', 'sweet']",USD ($),United States
+LA ESPERANZA BUREJAKE NATURAL,la esperanza burejake natural,Costa Rica,costa rica,2.0,light,8.48,medium,9.0,"syrup body, graham cracker, burnt sugar, biscotti",body,['body'],USD ($),United States
+The Natural,the natural,Blend,blend,4.0,medium,6.47,medium,7.0,Funky chocolate and wine taste. Very fruit/berry forward,"berry, chocolate, fruit","['berry', 'chocolate', 'fruit']",USD ($),United States
+En Masse,en masse,Blend,blend,3.0,light,6.43,medium,6.0,"Semi-sweet chocolate, light roastiness/smoke","chocolate, sweet","['chocolate', 'sweet']",USD ($),United States
+Unicorn Pony 2025,unicorn pony 2025,Ethiopia,ethiopia,1.0,light,12.01,medium,5.0,"Pulled as espresso. 18g in 36g out in 30 seconds. Thin, balanced, medium acidity, mild fruit, underwhelming, over-priced.","acidity, fruit","['acidity', 'fruit']",USD ($),United States
+Denim Coffee Espresso Blend,denim coffee espresso blend,India,india,4.0,medium,4.41,cheap,10.0,"Earthy, Walnut, Caramel",caramel,['caramel'],USD ($),United States
+Coffee emporium obm espresso,coffee emporium obm espresso,Blend,blend,7.0,dark,unknown,unknown,8.0,unknown,unknown,['unknown'],USD ($),United States
