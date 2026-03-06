@@ -79,4 +79,7 @@ Up to **5 beans** are returned per query, unless the user names a specific bean 
 
 ## Dataset
 
-The agent operates on a cleaned coffee bean dataset with normalized fields for origin, roast group, price level, tasting keywords, and ratings.
+The agent operates on the **Respresso Coffee Bean Database**, a public community-maintained dataset. The raw data was cleaned and normalized, retaining the following fields: bean name, origin, roast level, cost per 100g (USD only), rating, and tasting notes. Manual filtering was applied to handle human-entry errors, inconsistent categories, and outliers (e.g. unrealistic prices).
+
+- 📣 **Reddit announcement:** [r/espresso — Introducing the Respresso Coffee Bean Database](https://www.reddit.com/r/espresso/comments/1i17bed/introducing_the_respresso_coffee_bean_database_a/)
+- 📊 **Google Sheets source:** [Respresso Database Spreadsheet](https://docs.google.com/spreadsheets/d/1dUpWjrkeTVPtIuSVmvjXrt7zq-E_wYg-0e9JMl_glNA/edit?gid=1812115979#gid=1812115979)
